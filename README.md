@@ -1,4 +1,4 @@
-# 🔐 Order Challenge TryHackMe — Walkthrough & Flag Extraction
+# 🔐 Order - TryHackMe | Walkthrough & Flag Extraction
 
 While solving a CTF-style puzzle, I came across a suspicious-looking string:
 
