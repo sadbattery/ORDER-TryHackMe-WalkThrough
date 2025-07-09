@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=Order-TryHackMe&fontAlign=64&rotate=19&fontAlignY=45&textBg=false&animation=twinkling)
+
+<div><p align="left"> <img src="https://komarev.com/ghpvc/?username=sadbattery&label=PageViews:"/></p></div>
+
 # 🔐 Order - TryHackMe | Walkthrough & Flag Extraction
 
 While solving a CTF-style puzzle, I came across a suspicious-looking string:
