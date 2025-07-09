@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=Order-TryHackMe&fontAlign=64&rotate=19&fontAlignY=45&textBg=false&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=0,2,2,8,30&text=Order-TryHackMe&fontAlign=50&rotate=0&fontAlignY=50&textBg=false&animation=twinkling)
 
 <div><p align="left"> <img src="https://komarev.com/ghpvc/?username=sadbattery&label=PageViews:"/></p></div>
 
